@@ -1,5 +1,5 @@
 # LinReg
-This is a simple example of using linear regression to estimate the age of the universe with a real astronomy data set demonstrated by 
+This is an example of using simple linear regression to estimate the age of the universe with a real astronomy data set demonstrated by 
 - R (https://nystat.github.io/LinReg/LinReg_R.html)
 - Python (https://nystat.github.io/LinReg/LinReg_Py.html).
 
